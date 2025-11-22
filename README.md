@@ -47,6 +47,8 @@ Tools: Google Colab / Jupyter Notebook
 Dataset: Kaggle Fake & True News Dataset
 (Consisting of True.csv and Fake.csv)
 
+DATASET: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 🚀 Workflow
 1. Data Loading and Merging
 
@@ -129,8 +131,3 @@ Evaluation metrics
 Clean notebook presentation
 
 The complete notebook is suitable for academic submissions, internships, or GitHub portfolios.
-
-📎 Dataset
-
-Dataset used: True.csv and Fake.csv from Kaggle
-Combined into a labeled dataset inside the notebook.
