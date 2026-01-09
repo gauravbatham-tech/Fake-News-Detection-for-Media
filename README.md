@@ -128,6 +128,3 @@ Transformer models
 
 Evaluation metrics
 
-Clean notebook presentation
-
-The complete notebook is suitable for academic submissions, internships, or GitHub portfolios.
